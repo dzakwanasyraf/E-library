@@ -93,7 +93,7 @@ class Comments extends StatelessWidget {
                               ),
                             ],
                           ),
-                          margin: EdgeInsets.symmetric(
+                          margin: EdgeInsets.symmetric( 
                               horizontal: 5, vertical: 2.5),
                           child: TextField(
                             decoration: InputDecoration(
